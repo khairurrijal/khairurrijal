@@ -1,4 +1,4 @@
-## Hi there 👋, I'm a passionate full-stack developer with around 6 years of hands-on experience in developing scalable websites/applications using a wide range of front-end and back-end skills like HTML, CSS, React JS, React-Native JS, Laravel Framework, Node JS and in cloud - Gcloud. Developing 10+ mobile and websapps from scratch. Looking to further enhance my skills as the future full stack developer.
+Hi there 👋, I'm a passionate full-stack developer with around 6 years of hands-on experience in developing scalable websites/applications using a wide range of front-end and back-end skills like HTML, CSS, React JS, React-Native JS, Laravel Framework, Node JS and in cloud - Gcloud. Developing 10+ mobile and websapps from scratch. Looking to further enhance my skills as the future full stack developer.
 
 <!--
 **khairurrijal/khairurrijal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
