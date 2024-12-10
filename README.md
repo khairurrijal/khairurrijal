@@ -3,6 +3,9 @@ Hi there 👋,
 
 I'm a passionate full-stack developer with around 7 years of hands-on experience in developing scalable websites/applications using a wide range of front-end and back-end skills like HTML, CSS, React JS, React-Native JS, Laravel Framework, Node JS and in cloud - Gcloud. Developing 10+ mobile and websapps from scratch. Looking to further enhance my skills as the future full stack developer.
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/sojin.antony01](https://www.facebook.com/khairulrijalislami)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/khrrjls) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khairur-rijal-islami-a04749128) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10544522) 
+
 <!--
 **khairurrijal/khairurrijal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
